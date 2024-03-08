@@ -1,0 +1,150 @@
+*{
+	box-sizing: border-box;
+}
+.A{
+	height: 100vh;
+	width: 100%;
+	border: 1px solid black;
+}
+.head{
+	height: 10%;
+	width:100%;
+/*	border: 1px solid red;*/
+	background-color: black;
+}
+.footer{
+	height: 90%;
+	width:100%;
+	border: 1px solid green;
+	background-color: grey;
+}
+.A1{
+	height: 100%;
+	width: 20%;
+	background-color: black;
+	float: left;
+}
+.A2{
+	height: 100%;
+	width: 15%;
+	background-color: black;
+	float: left;
+	margin-left: 20px;
+}
+.A3{
+	height: 100%;
+	width: 15%;
+	background-color: black;
+	float: left;
+}
+.A4{
+	height: 100%;
+	width: 15%;
+	background-color: black;
+	float: left;
+}
+.A5{
+	height: 100%;
+	width: 20%;
+	background-color:black ;
+	float: right;
+}	
+.A9{
+	height: 95%;
+	width: 95%;
+/*	border: 1px solid red;*/
+	margin-left: 40px;
+/*	background-color: black;*/
+	margin-top: 16px;
+}
+.event{
+	height:20% ;
+	width: 100%;
+/*	border: 1px solid black;*/
+}
+.blank{
+	height: 10%;
+	width: 100%;
+/*	border: 1px solid green;*/
+
+}
+.Night{
+	height: 70%;
+	width: 100%;
+/*	border: 1px solid aqua;*/
+
+}
+.maja{
+	height: 130px;
+	width: 100%;
+}
+.laser_show{
+	height: 100%;
+	width: 20%;
+/*	border: 1px solid black;*/
+	float: left;
+	margin-left: 2.5%;
+	background-color: white;
+	letter-spacing: 1px;
+}
+.live_music{
+	height: 100%;
+	width: 20%;
+/*	border: 1px solid black;*/
+	float: left;
+	margin-left: 5%;
+}
+.DJ_master_class{
+	height: 100%;
+	width: 20%;
+/*	border: 1px solid black;*/
+	float: left;
+	margin-left: 5%;
+}
+.Best_Night_Party{
+	height: 100%;
+	width: 20%;
+/*	border: 1px solid black;*/
+	float: left;
+	margin-left: 5%;
+}
+.B1{
+	height: 60%;
+	width: 100%;
+/*	background-color: black;*/
+}
+.B2{
+	height:40%;
+	width: 100%;
+/*	background-color: red;*/
+}
+.B3{
+	height: 60%;
+	width: 100%;
+	background-color: black;
+}
+.B4{
+	height:40%;
+	width: 100%;
+	background-color: white;
+}
+.B5{
+	height: 60%;
+	width: 100%;
+	background-color: black;
+}
+.B6{
+	height:40%;
+	width: 100%;
+	background-color: white;
+}
+.B7{
+	height: 60%;
+	width: 100%;
+	background-color: black;
+}
+.B8{
+	height:40%;
+	width: 100%;
+	background-color: white;
+}

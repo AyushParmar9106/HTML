@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Part A</title>
+	<style type="text/css">
+		*
+		{
+			margin: 0px;
+			padding: 0px;
+			box-sizing: border-box;
+		}
+
+		.ay{
+			width: 60% ;
+			 float:left;
+			  height: 40% ;
+			  margin: 10px 0;
+		}
+		.by{
+			height:50%;
+			width:30%;
+			background-color: black;
+			float:right; 
+		}
+
+		@media screen and (max-width:600px){ 
+			
+			.ay{
+				width: 100%;
+				margin-top: 20px;
+			}
+			.by{
+				width: 100%;
+				margin-top: 20px;
+			}
+		}
+
+	</style>
+</head>
+<body>
+
+	<div style="background-color: grey">
+
+		<div style=" height: 10vh; width: 100% ; background-color: purple; color: white">Header
+			
+		</div>
+
+		<div style="height:80vh; width: 100%; background-color: orange; padding: 20px; color: white;">
+			<div style="height: 5%; width: 100%;">
+				Content
+			</div>
+			<div class="ay">
+				<div style="height:15%; width:100% ; color:white;background-color: black;padding:10px ;margin: 10px 0;">
+				Entry
+			</div>
+
+			<div style="height:15%; width:100% ; color:white;background-color: black;padding:10px;margin: 10px 0;">
+				Entry
+			</div>
+
+			<div style="height:15%; width:100% ; color:white;background-color: black;padding:10px;margin: 10px 0;">
+				Entry
+			</div>
+			</div>
+			
+
+			<div class="by">Sidebar
+				
+			</div>
+		</div>
+
+		<div style="height:10vh; width: 100% ;background-color: blue;color: white">@Darshan University-Rajkot
+			
+		</div>
+	</div>
+</body>
+</html>
